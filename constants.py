@@ -1,0 +1,11 @@
+# Size windows
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+SIZE = (SCREEN_WIDTH, SCREEN_HEIGHT)
+
+# Titler
+TITLE = "Snake PC Remake"
+
+# Colors
+BG_COLOR = (46, 163, 119)
+
